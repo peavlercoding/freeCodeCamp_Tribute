@@ -1,0 +1,71 @@
+a {
+  color: red;
+}
+a:hover {
+  color: blue;
+}
+
+body {
+  background-color: black;
+}
+
+#main {
+  background-image: url("https://i.pinimg.com/originals/85/20/76/85207606a1495db561f82ea5eabb800f.jpg");
+  background-repeat: no-repeat;
+  background-size: auto;
+  background-position: center;
+}
+
+#container {
+
+}
+
+#title {
+  text-align: center;
+  font-family: 'Jim Nightshade', cursive;
+  font-size: 30px;
+  padding-top: 40px;
+  padding-bottom: 40px;  
+}
+
+#image {
+  display: block;
+  margin: auto;
+  padding-bottom: 30px;
+}
+
+.img-r {
+  max-width: 100%;
+  display: block;
+  height: auto;
+  position: center;
+}
+
+#img-div {
+ 
+}
+
+#img-caption {
+  font-size: 20px;
+  text-align: center;
+  color: black;
+  position: relative;
+  bottom: 40px;
+}
+
+#container {
+  
+}
+
+#tribute-info {
+  color: rgba(255,200,0,45%);
+  background-color: rgba(0,0,0,75%);
+  border: solid;
+  border-color: rgba(0,0,0,30%);
+  word-wrap: break-word;
+  font-size: 20px;
+  display: block;
+  margin-left:150px;
+  margin-right:150px;
+  
+}
